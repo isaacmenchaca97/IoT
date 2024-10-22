@@ -9,18 +9,3 @@ Este repositorio contiene todas las prácticas realizadas durante la materia de 
 
 ---
 
-## Estructura del repositorio
-
-```bash
-IoT-Practicas
-│
-├── Practicas/
-│   ├── Practica_01/
-│   │   ├── README.md  # Instrucciones de la práctica
-│   │   └── Codigo/    # Código fuente de la práctica
-│   ├── Practica_02/
-│   └── ...            # Más prácticas
-│
-└── Proyecto_Final/
-    ├── README.md      # Descripción del proyecto final
-    └── Codigo/        # Código fuente del proyecto final
